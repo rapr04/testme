@@ -1,0 +1,15 @@
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.deps.json
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.runtimeconfig.json
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.runtimeconfig.dev.json
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.dll
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.pdb
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.csprojAssemblyReference.cache
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.csproj.CoreCompileInputs.cache
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.RazorAssemblyInfo.cache
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.RazorAssemblyInfo.cs
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.AssemblyInfoInputs.cache
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.AssemblyInfo.cs
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.RazorTargetAssemblyInfo.cache
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.dll
+D:\rnd\TestApp\TestAsynAwat\obj\Debug\netcoreapp2.2\TestAsynAwat.pdb
+D:\rnd\TestApp\TestAsynAwat\bin\Debug\netcoreapp2.2\TestAsynAwat.exe
