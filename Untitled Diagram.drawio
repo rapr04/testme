@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:47:09.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QC5jZbBT1HKiHc_k71bS" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:49:34.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fFHIiZChGOQvS3wm-Wji" version="22.1.18" type="github">
   <diagram name="Page-1" id="eB-tZFdMm-vdjuSa4vou">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bQTxVVg-OeqKd93aSh4I-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="73" y="1300" width="594" height="170" as="geometry" />
+          <mxGeometry x="73" y="1300" width="594" height="280" as="geometry" />
         </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230.5" y="1185" width="270" height="100" as="geometry" />
@@ -123,6 +123,13 @@
         <mxCell id="bQTxVVg-OeqKd93aSh4I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bQTxVVg-OeqKd93aSh4I-2" target="bQTxVVg-OeqKd93aSh4I-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xxFQk5oJcBtTCgtMRoNV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bQTxVVg-OeqKd93aSh4I-2" target="xxFQk5oJcBtTCgtMRoNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="366" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-2" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" parent="1" vertex="1">
           <mxGeometry x="327.5" y="1321" width="76" height="72.96" as="geometry" />
         </mxCell>
@@ -146,6 +153,12 @@
         </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
           <mxGeometry x="432" y="1219.5" width="38.75" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="xxFQk5oJcBtTCgtMRoNV-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="520" y="1442.16" width="79" height="75.84" as="geometry" />
+        </mxCell>
+        <mxCell id="xxFQk5oJcBtTCgtMRoNV-2" value="Tenant API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="527" y="1516" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
