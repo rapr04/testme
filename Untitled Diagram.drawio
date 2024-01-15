@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T10:49:34.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fFHIiZChGOQvS3wm-Wji" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T10:51:28.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rBvtbLSUp4zOddKjTtQj" version="22.1.18" type="github">
   <diagram name="Page-1" id="eB-tZFdMm-vdjuSa4vou">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,19 +146,25 @@
           <mxGeometry x="516.5" y="1389" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" parent="1" vertex="1">
-          <mxGeometry x="272" y="1215.5" width="39" height="39" as="geometry" />
+          <mxGeometry x="272" y="1234.5" width="39" height="39" as="geometry" />
         </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="1" vertex="1">
-          <mxGeometry x="345.67" y="1215.5" width="42.66" height="39" as="geometry" />
+          <mxGeometry x="345.67" y="1234.5" width="42.66" height="39" as="geometry" />
         </mxCell>
         <mxCell id="bQTxVVg-OeqKd93aSh4I-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="432" y="1219.5" width="38.75" height="31" as="geometry" />
+          <mxGeometry x="432" y="1238.5" width="38.75" height="31" as="geometry" />
         </mxCell>
         <mxCell id="xxFQk5oJcBtTCgtMRoNV-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="520" y="1442.16" width="79" height="75.84" as="geometry" />
         </mxCell>
         <mxCell id="xxFQk5oJcBtTCgtMRoNV-2" value="Tenant API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="527" y="1516" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxFQk5oJcBtTCgtMRoNV-4" value="&lt;h1&gt;OnaApp&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565.5" y="1260" width="111.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxFQk5oJcBtTCgtMRoNV-5" value="&lt;h2&gt;Common Services&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="1185.5" width="268" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
